@@ -13,7 +13,6 @@
 		<button class="bt">M+</button>
 		<button class="bt">/</button>
 	</div>
-	<h3 style="color: yellow; font-size: 40px;" align="center">I am a Devop</h3>
 	
 	
 	
